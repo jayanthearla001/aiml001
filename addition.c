@@ -7,4 +7,5 @@ void main(){
 	scanf("%d",&b);
 	printf("Hello");
 	printf("\nSum : %d\n\n",a+b);
+	printf("Good bye");
 }
